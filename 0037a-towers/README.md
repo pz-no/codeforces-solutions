@@ -17,7 +17,7 @@ Vasya wants to construct the minimal number of towers from the bars. Help Vasya 
 
 ## Input
 
-The first line contains an integer N (1 <= N <= 1000) — the number of bars at Vasya’s disposal. The second line contains N space-separated integers li — the lengths of the bars. All the lengths are natural numbers not exceeding 1000.
+The first line contains an integer $N$ $(1 \leq N \leq 1000)$ — the number of bars at Vasya’s disposal. The second line contains $N$ space-separated integers $l_i$ — the lengths of the bars. All the lengths are natural numbers not exceeding 1000.
 
 ## Output
 

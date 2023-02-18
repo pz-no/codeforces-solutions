@@ -27,7 +27,7 @@ Print YES, if the boys can divide the watermelon into two parts, each of them we
 
 ### Input
 
-[Link to data file](input-0.txt)
+[Link to file](input-0.txt)
 
 ```
 8
@@ -35,7 +35,7 @@ Print YES, if the boys can divide the watermelon into two parts, each of them we
 
 ### Output
 
-[Link to data file](expected-0.txt)
+[Link to file](expected-0.txt)
 
 ```
 YES
@@ -53,8 +53,8 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 
 ### Python 3.8.10
 
-[Link to source code](solution.py)
+[Link to file](solution.py)
 
 ### GNU C++17 7.3.0
 
-[Link to source code](solution.cpp)
+[Link to file](solution.cpp)

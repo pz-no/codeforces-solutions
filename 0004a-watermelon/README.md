@@ -49,12 +49,12 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 
 ### Rust 1.66.0
 
-[Link to file](solution.rs)
+[Link to file](solution.rs) (time: 30 ms, memory: 20 KB)
 
 ### Python 3.8.10
 
-[Link to file](solution.py)
+[Link to file](solution.py) (time: 92 ms, memory: 0 KB)
 
 ### GNU C++17 7.3.0
 
-[Link to file](solution.cpp)
+[Link to file](solution.cpp) (time: 0 ms, memory: 4 KB)

@@ -52,8 +52,8 @@ R23C55
 
 ### Python 3.8.10
 
-[Link to file](solution.py)
+[Link to file](solution.py) (time: 2774 ms, memory: 668 KB)
 
 ### GNU C++17 7.3.0
 
-[Link to file](solution.cpp)
+[Link to file](solution.cpp) (time: 156 ms, memory: 144 KB)

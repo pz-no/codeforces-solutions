@@ -78,8 +78,8 @@ NO
 
 ### GNU C++17 7.3.0
 
-[Link to file](solution.cpp)
+[Link to file](solution.cpp) (time: 30 ms, memory: 8 KB)
 
 ### Python 3.8.10
 
-[Link to file](solution.py)
+[Link to file](solution.py) (time: 92 ms, memory: 0 KB)
